@@ -1,0 +1,2 @@
+Mnifest-Version: 1.0
+Main-Class: com.xinan.spi.demo.SpiDemoMain
